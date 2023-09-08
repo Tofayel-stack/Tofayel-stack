@@ -12,7 +12,7 @@ Skills: Front-End-Developer
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on Photographer Site 
+- 🔭 I’m currently working with a organization 
 - 🌱 I’m currently learning TanStack Query 
 - 💬 Ask me about React js 
 - 📫 How to reach me: mdtofayelhossain69@gmail.com 
