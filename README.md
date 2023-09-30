@@ -13,7 +13,7 @@ Skills: Front-End-Developer
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🔭 I’m currently working with a organization 
-- 🌱 I’m currently learning TanStack Query 
+- 🌱 I’m currently learning Next JS
 - 💬 Ask me about React js 
 - 📫 How to reach me: mdtofayelhossain69@gmail.com 
 - ⚡ Fun fact: I can sing ✌ 
